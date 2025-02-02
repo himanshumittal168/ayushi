@@ -787,6 +787,9 @@
   .flex-col {
     flex-direction: column;
   }
+  .flex-row {
+    flex-direction: row;
+  }
   .items-baseline {
     align-items: baseline;
   }

@@ -274,6 +274,7 @@ const Contact = () => {
                   <option value="12th">Class 12th</option>
                   <option value="bsc">B.Sc Chemistry</option>
                   <option value="btech">B.Tech Chemistry</option>
+                  <option value="cuet">Cuet</option>
                 </select>
                 {errors.course && (
                   <p className="mt-1 text-sm text-red-600">{errors.course}</p>
